@@ -1,5 +1,8 @@
-#include<bits/stdc++.h>
+/*
+Problem: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charged-up-array-f35a5e23/
+*/
 
+#include<bits/stdc++.h>
 using namespace std;
 
 typedef long long int LL;
@@ -27,7 +30,7 @@ int main(){
 		else
 			charge = 1LL << 62;
 			
-		cout << charge << endl;
+		//cout << charge << endl;
 			
 		total_charge = 0LL;
 		for(int j = 0; j < N; j++){
