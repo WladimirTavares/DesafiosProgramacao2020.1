@@ -130,8 +130,8 @@ https://neps.academy/lesson/163
 Exercícios
 * Let's Begin! https://bit.ly/3kImiVx​
 * Sumit's sub-array and sub-sequence https://bit.ly/2DToXuS​
-*Choosing the Judges https://bit.ly/30RD64G​
-*(Extra) Number of R's https://bit.ly/31MQfeB
+* Choosing the Judges https://bit.ly/30RD64G​
+* (Extra) Number of R's https://bit.ly/31MQfeB
 
 ## Semana 6 (Number Theory I)
 
@@ -176,10 +176,10 @@ Problemas comentados:
 * Permutation https://bit.ly/3bjXaAj​
 
 Exercícios:
-*Social Networking Graph https://bit.ly/3jFcNVN​
-*Printing patterns https://bit.ly/351AoMy​
-*Dhoom 4 https://bit.ly/32Qx5Fc​
-*(Extra) Zero path operations https://bit.ly/34YG6yt​
+* Social Networking Graph https://bit.ly/3jFcNVN​
+* Printing patterns https://bit.ly/351AoMy​
+* Dhoom 4 https://bit.ly/32Qx5Fc​
+* (Extra) Zero path operations https://bit.ly/34YG6yt​
 
 
 ## Semana 9 (Segment Tree)
