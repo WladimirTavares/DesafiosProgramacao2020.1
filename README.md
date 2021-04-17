@@ -1,6 +1,6 @@
 # Desafios de Programação 2020.1
 
-## Semana 1
+## Semana 1 (Array and Greedy Algorithm)
 
 ### Array
  Problema comentado:
@@ -24,7 +24,7 @@ Exercícios:
 *  Help Sachin Dev Sahoo https://bit.ly/3a0sUK9  
 * KFriend: https://bit.ly/2PrpSVM
 
-## Semana 2
+## Semana 2 (Stack and binary search)
 
 ### Stacks
 Comentado
@@ -47,7 +47,7 @@ Exercícios:
 * Monk's Encounter with Polynomial https://bit.ly/2XBjZtx
 * The Old Monk https://bit.ly/3ik7471
 
-## Semana 3
+## Semana 3 (Hashing and priority queue)
 
 ### Hashing
 Problemas comentados
@@ -72,3 +72,135 @@ Exercícios:
 * Roy and trending topics: https://bit.ly/30AnfaB 
 * Special Array Operation: https://bit.ly/3a3hq8p 
 * (Extra) Haunted: https://bit.ly/3a84qP1
+
+
+
+## Semana 4 (Dynamic Programming I)
+
+Problemas comentados:
+
+* Jumping Stones https://bit.ly/33PDG4L​
+* Number sum https://bit.ly/2Fgfxdp​
+* MI vs CSK and Pearls https://bit.ly/3fOzpAP​
+* Win-the-Game https://bit.ly/33PbZZP
+
+Exercícios:
+
+* Prateek and theories https://bit.ly/33KUc66​
+* Odd-Even Subarrays https://bit.ly/2CjGkED​
+* Another substring https://bit.ly/3kCx2EL​
+* (Extra) ULTIMATE STAIRWAY TO HEAVEN! https://bit.ly/3fLK1An​
+
+
+## Semana 5 (Dynamic Programming II)
+
+Problemas Comentados
+* maximum subarray sum problem(Kadane) O(n)
+https://www.geeksforgeeks.org/largest...​
+https://neps.academy/lesson/165​
+http://marathoncode.blogspot.com/2012...​
+* minimum number of coins
+https://www.geeksforgeeks.org/find-mi...​
+https://neps.academy/lesson/167​
+* longest increase subsequence (maior subsequencia crescente)
+https://cp-algorithms.com/sequences/l...​
+https://neps.academy/lesson/163
+
+Exercícios
+* Let's Begin! https://bit.ly/3kImiVx​
+* Sumit's sub-array and sub-sequence https://bit.ly/2DToXuS​
+*Choosing the Judges https://bit.ly/30RD64G​
+*(Extra) Number of R's https://bit.ly/31MQfeB
+
+## Semana 6 (Number Theory I)
+
+[Vídeo-Aula](https://www.youtube.com/watch?v=R7E9LMF-7fI&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=10&ab_channel=WladimirTavares)
+
+Problemas comentados:
+* Help Oz https://bit.ly/3j3VKfY​
+* Panda and Chain Reaction https://bit.ly/2FHcwCZ​
+* Wacky Workouts https://bit.ly/2QcoWF9​
+* Primen't Divisors https://bit.ly/3ghVGHx​
+
+Exercícios:
+* The Confused Monk https://bit.ly/2Emtl5N​
+* Mogu Loves Numbers https://bit.ly/2E7PCod​
+* Riya's Birthday Party https://bit.ly/31k8kRW​
+* Calculate the Power https://bit.ly/2CPq5iT​ 
+* Anshuli and the Party https://bit.ly/31iWzLK​ 
+
+## Semana 7 (Number Theory II)
+
+[Vídeo-aula](https://www.youtube.com/watch?v=eh_MJ0jb7fo&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=11&ab_channel=WladimirTavares)
+
+Problemas comentados:
+* Another Prime Problem  https://bit.ly/31Bs4Ra​
+* A to B https://bit.ly/2G60OCf​
+
+Exercícios:
+* Ultra Prime https://bit.ly/34BPfgp​
+* Ashu and Prime Factors https://bit.ly/2YGNjiZ​
+* Beautiful primes https://bit.ly/34FxQDB​
+* The Easy One! https://bit.ly/2YGLjXS​
+* (Extra) Rated Groups https://bit.ly/3gAon2K​
+* Mike and GCD Issues https://bit.ly/2FYc17K
+
+
+## Semana 8 (Breadth First Search)
+
+Problemas comentados:
+* Monk and the Islands https://bit.ly/2ERfJ2U​
+* Permutation https://bit.ly/3bjXaAj​
+
+Exercícios:
+*Social Networking Graph https://bit.ly/3jFcNVN​
+*Printing patterns https://bit.ly/351AoMy​
+*Dhoom 4 https://bit.ly/32Qx5Fc​
+*(Extra) Zero path operations https://bit.ly/34YG6yt​
+
+
+## Semana 9 (Segment Tree)
+
+[Vídeo-Aula](https://www.youtube.com/watch?v=ljjnd9sAEz8&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=12&ab_channel=WladimirTavares)
+
+Links de apoio:
+Segment Tree
+https://bit.ly/30i2IXP​
+Segment tree | Efficient implementation
+https://bit.ly/36bVAzU​
+https://bit.ly/2S8HLdh​
+
+Exercícios comentado:
+* Help Ashu https://bit.ly/2SmpWYt​
+
+Problemas:
+* Zeros and ones https://bit.ly/3icRJos​
+* Bob And Array Queries  https://bit.ly/2SaWwfu​
+* Easy Queries  https://bit.ly/2S8zcPx​
+* [Extra]Distinct Integers in Range https://bit.ly/3jk9nZ2​
+
+## Semana 10 (Trie)
+
+[Vídeo-aula](https://www.youtube.com/watch?v=Zt46SYIJ3jg&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=13&ab_channel=WladimirTavares)
+
+Links:
+* Find the maximum subarray XOR in a given array https://bit.ly/33r0ZA9​
+* Trie | (Insert and Search) https://bit.ly/2FtWaxY​
+
+Exercícios:
+* Cost of Data https://bit.ly/3kkSY6K​
+* Word queries https://bit.ly/3kik3Ya​
+* Tries: https://bit.ly/3bWnPU7​
+* Xor and Insert https://bit.ly/32xsitn​
+* Ma5termind and XOR Minimization https://bit.ly/2RpB2uX​
+* [Extra] Shubham and Subarray Xor https://bit.ly/33t5PNd
+
+
+
+
+
+
+
+
+
+
