@@ -3,6 +3,9 @@
 ## Semana 1 (Array and Greedy Algorithm)
 
 ### Array
+
+[Vídeo-Aula](https://www.youtube.com/watch?v=3UaPBQ4hgXg&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=2&ab_channel=WladimirTavares)
+
  Problema comentado:
  * Charged Up Array https://bit.ly/30DAtDz 
  
@@ -12,6 +15,8 @@
  *  Takeoff https://bit.ly/2XzBt9E
 
 ### Greedy Algorithms
+
+[Vídeo-aula](https://www.youtube.com/watch?v=-zlOUxwEaMc&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=3&ab_channel=WladimirTavares)
 
 Sugestões de Leitura:
 What This Country Needs is an 18 Piece (https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf) Canonical Coin Systems for Change-Making Problems (https://arxiv.org/pdf/0809.0400.pdf)
@@ -27,7 +32,10 @@ Exercícios:
 ## Semana 2 (Stack and binary search)
 
 ### Stacks
-Comentado
+
+[Vídeo-aula](https://www.youtube.com/watch?v=hc9ZnasnKdk&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=4&ab_channel=WladimirTavares)
+
+Problemas Comentados
 * A game of number https://bit.ly/2XwOkJx 
 *  Super Reduce Strings https://bit.ly/31lcGqY 
 
@@ -37,7 +45,10 @@ Exercícios:
 * Array Formation https://bit.ly/31lZiTs
 
 ### Binary Search
-Comentado
+
+[Vídeo-aula](https://www.youtube.com/watch?v=9cHCeVVbUpc&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=5&ab_channel=WladimirTavares)
+
+Problemas Comentados
 * Bishu and Soldiers https://bit.ly/2XAuuNU
 * The furious five https://bit.ly/3ielOEt
 * Largest Substring https://bit.ly/3kr8P4z
@@ -50,6 +61,9 @@ Exercícios:
 ## Semana 3 (Hashing and priority queue)
 
 ### Hashing
+
+[Vídeo-aula](https://www.youtube.com/watch?v=oxmq1gtlwk4&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=6&ab_channel=WladimirTavares)
+
 Problemas comentados
 * Bob and string https://bit.ly/2XQYTHV
 * Statistics https://bit.ly/3a2uoTX
@@ -63,6 +77,9 @@ Exercícios:
 * (Extra) Kth Character https://bit.ly/2Pvwv9w
 
 ### priority_queue
+
+[Vídeo-aula](https://www.youtube.com/watch?v=a6U4NJxgavs&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=7&ab_channel=WladimirTavares)
+
 Problemas comentados: 
 * Monk and Multiplication: https://bit.ly/30uMUBo 
 * Median Stream: https://bit.ly/3gAgqeq 
@@ -76,6 +93,8 @@ Exercícios:
 
 
 ## Semana 4 (Dynamic Programming I)
+
+[Vídeo-aula](https://www.youtube.com/watch?v=a6U4NJxgavs&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=7&ab_channel=WladimirTavares)
 
 Problemas comentados:
 
@@ -93,6 +112,8 @@ Exercícios:
 
 
 ## Semana 5 (Dynamic Programming II)
+
+[Vídeo-aula](https://www.youtube.com/watch?v=ytg50jj90Gk&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=9&ab_channel=WladimirTavares)
 
 Problemas Comentados
 * maximum subarray sum problem(Kadane) O(n)
@@ -147,6 +168,8 @@ Exercícios:
 
 
 ## Semana 8 (Breadth First Search)
+
+[Vídeo-aula](https://www.youtube.com/watch?v=OIgGA_6sEEM&list=PLPpVvPOjdervYWBxB9wrXy95E3isUJ6fU&index=11&ab_channel=WladimirTavares) 
 
 Problemas comentados:
 * Monk and the Islands https://bit.ly/2ERfJ2U​
